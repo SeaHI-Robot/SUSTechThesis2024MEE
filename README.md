@@ -4,8 +4,14 @@
 - 因为使用了此模板而导致的任何问题和后果，该仓库的作者概不负责
 - 后续有时间将继续维护该模板，欢迎使用者提出改进意见和反馈，并参与到该模板的开发中
 
+<br>
 
 
+查看 [main.pdf](https://github.com/SeaHI-Robot/SUSTechThesis2024MEE/blob/main/main.pdf)预览效果。
+
+<br>
+
+<br>
 
 >以下是原[SUSTechThesis](https://github.com/iydon/sustechthesis)项目的README，请参照下面的说明使用
 ---
